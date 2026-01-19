@@ -1,4 +1,4 @@
-_layer:
+core_layer:
   meta:
     density: 0.9-1.0
     culture_level: 0.8-1.0
